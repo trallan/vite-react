@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "email": "alice@example.com",
+      "age": 28,
+      "role": "Frontend Developer",
+      "active": true,
+      "avatar": "https://i.pravatar.cc/150?img=1",
+      "tags": ["react", "typescript", "ui"]
+    },
+    {
+      "id": 2,
+      "name": "Marcus Lee",
+      "email": "marcus@example.com",
+      "age": 34,
+      "role": "Backend Developer",
+      "active": false,
+      "avatar": "https://i.pravatar.cc/150?img=2",
+      "tags": ["node", "api", "postgres"]
+    },
+    {
+      "id": 3,
+      "name": "Sofia Martinez",
+      "email": "sofia@example.com",
+      "age": 25,
+      "role": "UI/UX Designer",
+      "active": true,
+      "avatar": "https://i.pravatar.cc/150?img=3",
+      "tags": ["figma", "design", "branding"]
+    },
+    {
+      "id": 4,
+      "name": "David Kim",
+      "email": "david@example.com",
+      "age": 31,
+      "role": "DevOps Engineer",
+      "active": true,
+      "avatar": "https://i.pravatar.cc/150?img=4",
+      "tags": ["aws", "docker", "kubernetes"]
+    },
+    {
+      "id": 5,
+      "name": "Emma Wilson",
+      "email": "emma@example.com",
+      "age": 29,
+      "role": "Project Manager",
+      "active": false,
+      "avatar": "https://i.pravatar.cc/150?img=5",
+      "tags": ["scrum", "agile", "management"]
+    }
+  ],
+  "stats": {
+    "totalUsers": 5,
+    "activeUsers": 3,
+    "inactiveUsers": 2
+  }
+}
